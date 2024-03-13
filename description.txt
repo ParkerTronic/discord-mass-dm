@@ -1,0 +1,1 @@
+discord mass dm for advirtising your stuff in discord. Dms every user of a server with given message
